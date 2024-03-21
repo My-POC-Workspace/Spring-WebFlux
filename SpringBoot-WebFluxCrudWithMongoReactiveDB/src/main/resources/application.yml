@@ -1,0 +1,8 @@
+server:
+   port: 9099
+spring:
+  data:
+    mongodb:
+      database: SpringWebfluxCrud
+      host: localhost
+      port: 27017
